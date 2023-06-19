@@ -1,8 +1,11 @@
-### Hi there 👋
+### Welcome 👯
 
-<!--
-**shinevue/shinevue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ _special_ ✨
 
+Use my app once.
+And then you feel happy.
+
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
