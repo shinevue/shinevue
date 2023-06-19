@@ -1,19 +1,15 @@
-### Welcome 👯
+# Full Stack Engineer
 
-## ✨ _special_ ✨
+### 🔭 A full stack developer with 6 years experience in web development using many technologies, languages, frameworks and libraries in different areas, including frontend, backend, full stack and data visualization.
 
-Use my app once.
-And then you feel happy.
+### 📫 I have participated in architecting, designing, developing and deploying many full stack web applications like [this](https://spoken.io), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance). Here are my main skills/experiences in web/data.
 
-<!--
-Here are some ideas to get you started:
+- HTML/CSS, JavaScript, TypeScript
+- PHP, Python, Solidity
+- React(Redux, Context), Next.js
+- Vue(Vuex), Quasar, Vuetify, Nuxt.js
+- Node.js, Express.js, Nest.js
+- Laravel, Django
+- MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
+👯 I am looking to collaborate on web applications, mainly open source projects.
