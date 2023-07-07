@@ -12,6 +12,7 @@
 - Node.js, Express.js
 - Laravel, Django, WordPress
 - MySQL, MongoDB, Firebase
+- Ruby/Rail
 - design (Photoshop, AI, XD, Figma)
 - AI
 
