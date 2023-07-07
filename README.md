@@ -5,7 +5,7 @@
 ### 📫 I have participated in architecting, designing, developing and deploying many full stack web applications like [this](https://spoken.io), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance). Here are my main skills/experiences in web/data.
 
 - HTML/CSS, JavaScript, TypeScript
-- PHP, Python
+- PHP, Python, R
 - React(Redux, Context), Next.js
 - Vue(Vuex), Quasar, Vuetify, Nuxt.js
 - TailwindCSS, Material UI
