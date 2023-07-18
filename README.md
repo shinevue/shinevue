@@ -1,6 +1,6 @@
 # Full Stack Engineer
 
-### 🔭 A full stack developer with 6 years of experience in web development using many technologies, languages, frameworks, and libraries in different areas, including frontend, backend, full stack, and data visualization.
+### 🔭 A full stack developer with 9 years of experience in web development using many technologies, languages, frameworks, and libraries in different areas, including frontend, backend, full stack, and data visualization.
 
 ### 📫 I have participated in architecting, designing, developing, and deploying many full-stack web applications like [this](https://spoken.io), decentralized applications(DAO, DEX, Defi, NFT) like [this](https://www.klimadao.finance). Here are my primary skills/experiences in web/data.
 
