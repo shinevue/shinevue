@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Fullstack and blockchain engineer from Canada</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinevue" alt="shinevue" /></a> </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shinevue&column=9" />
+</p>
 - 👨‍💻 All of my projects are available at [https://portfolio-shine.vercel.app](https://portfolio-shine.vercel.app)
 
 - 📫 How to reach me **shine401020@gmail.com**
