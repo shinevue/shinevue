@@ -4,7 +4,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shinevue&column=9" />
 </p>
-- 👨‍💻 All of my projects are available at [https://portfolio-shine.vercel.app](https://portfolio-shine.vercel.app)
+
+- 👨‍💻 All of my projects are available at [https://portfolio-shine.vercel.app/](https://portfolio-shine.vercel.app/)
 
 - 📫 How to reach me **shine401020@gmail.com**
 
