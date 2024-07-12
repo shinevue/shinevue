@@ -6,8 +6,8 @@
 </p>
 
 <div align="center">
-    <a href="https://github.com/davevad93"><img src="https://komarev.com/ghpvc/?username=shinevue&color=brightgreen&style=for-the-badge"/><a/>
-    <a href="./LICENSE"><img src="https://img.shields.io/github/license/shinevue/davevad93?style=for-the-badge&color=brightgreen"/></a>
+    <a href="https://github.com/shinevue"><img src="https://komarev.com/ghpvc/?username=shinevue&color=brightgreen&style=for-the-badge"/><a/>
+    <a href="./LICENSE"><img src="https://img.shields.io/github/license/shinevue/shinevue?style=for-the-badge&color=brightgreen"/></a>
 </div>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shine.vercel.app/](https://portfolio-shine.vercel.app/)
