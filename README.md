@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate Fullstack and blockchain engineer from Canada</h3>
+<h3 align="center">A passionate Fullstack and AI engineer</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shinevue&theme=onedark&column=9" />
