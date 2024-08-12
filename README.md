@@ -10,11 +10,6 @@
     <a href="./LICENSE"><img src="https://img.shields.io/github/license/shinevue/shinevue?style=for-the-badge&color=brightgreen"/></a>
 </div>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-shine.vercel.app/](https://portfolio-shine.vercel.app/)
-
-- 📫 How to reach me **shine401020@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/o76gj63rpp](https://flowcv.com/resume/o76gj63rpp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
