@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack and AI engineer</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shinevue&theme=onedark&column=9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shinevue&theme=gitdimmed&column=9" />
 </p>
 
 <div align="center">
