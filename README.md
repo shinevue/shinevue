@@ -10,16 +10,6 @@
     <a href="./LICENSE"><img src="https://img.shields.io/github/license/shinevue/shinevue?style=for-the-badge&color=brightgreen"/></a>
 </div>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/supersunshine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="supersunshine" height="30" width="40" /></a>
-<a href="https://discord.gg/shiny7_star" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shiny7_star" height="30" width="40" /></a>
-  
-  📫 How to reach me: **My Gmail - shine401020**
-
-</p>
-
 <hr>
 
 <h2 align="center">Languages and Tools:</h2>
