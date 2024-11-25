@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Senior Project Manager / Full stack Engineer</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=8D8D8D&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+Welcome+to+my+profile;Senior+Project+Manager;Senior+Frontend+Engineer;Senior+Backend+Engineer" alt="Typing SVG" />
+  </a>
+</h1>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shinevue&theme=gitdimmed&column=5" />
